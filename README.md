@@ -51,10 +51,6 @@ resoures/
 │   ├── module_ablation.py           #   w/o c&g, w/o c, w/o g, w/o pp, w/o CoT
 │   └── prompt_ablation.py           #   prompt component ablation
 │
-└── analysis/                        # hyperparameter analysis
-    ├── sweep_w.py                   #   ω parameter sweep
-    ├── sweep_d.py                   #   d (GPS offset) parameter sweep
-    └── draw_pic.py                  #   visualization (ω/d effect, cluster plots)
 ```
 
 ## Requirements
