@@ -1,0 +1,61 @@
+# Semantic Trajectory Search Queries (50 queries across 9 categories)
+# Format: category | query_text
+
+dining           morning coffee run
+dining           late night dinner
+dining           grabbing lunch
+dining           having breakfast before work
+dining           going out for pizza
+dining           evening dining at a nice restaurant
+dining           quick bite during lunch break
+
+office           commuting to office
+office           business meeting downtown
+office           late night shift at company
+office           heading to work in the morning
+office           visiting a client office
+office           working overtime at the office
+
+shopping         weekend shopping trip
+shopping         buying groceries after work
+shopping         going to the mall
+shopping         picking up supplies from the store
+shopping         browsing boutiques on the weekend
+
+recreation       visiting a museum
+recreation       going to a show
+recreation       evening at a bar or pub
+recreation       watching a movie after work
+recreation       going to a concert
+recreation       spending time at an art gallery
+
+outdoors         going to a park on Sunday
+outdoors         visiting a scenic viewpoint
+outdoors         walking by the waterfront
+outdoors         enjoying a day at the garden
+outdoors         strolling through the botanical garden
+
+transport        taking the subway to work
+transport        arriving at the train station
+transport        heading to the airport
+transport        catching a bus downtown
+transport        commuting by train
+transport        getting a ride to the terminal
+
+medical          doctor appointment in the morning
+medical          visiting a hospital
+medical          picking up medicine
+medical          going to a health checkup
+medical          dental appointment after work
+
+education        picking up kids from school
+education        attending a class
+education        going to university library
+education        dropping off at college campus
+education        visiting the school for a meeting
+
+residential      returning home after work
+residential      heading back to apartment
+residential      going back to the hotel
+residential      coming home late at night
+residential      checking into the hotel after a long trip

@@ -1,0 +1,489 @@
+An office worker embarked from P.J. Carney's Pub to the company Brookfield Properties for an urgent evening shift starting at 22:00 on Wednesday.
+An Italian food enthusiast visited Bocca di Bacco, an Italian restaurant, on Sunday evening at 23:00, accompanied by 5 passengers.
+An individual went from an entertainment venue to their home on Thursday at 09:00.
+A pizza delivery worker travelled from Arome Deli & Pizzeria to the subway station MTA Subway - Borough Hall/Court St on Tuesday, possibly for a delivery run.
+A hotel guest checked out of Voila hotel and visited 2 Bros Pizza, a pizzeria, for a solo meal on Monday at 6:00.
+A French restaurant patron embarked from L鈥橢xpress to Bar Fresh Salt for a casual evening out on Friday at 18:00.
+A person went to Mr. Chow, a Chinese restaurant, for entertainment on Friday evening at 19:00.
+A customer from Gristedes Supermarkets visited Boca Chica, a Brazilian restaurant, for dinner on Thursday evening at 21:00.
+An art enthusiast visited the Whitney Museum of American Art in the Art Museum on Monday and then headed to Icahn School of Medicine at Mount Sinai in the Medical School.
+An American Restaurant worker started their Saturday evening shift at 2:00 from the Office building Jacob's Pickles, heading to the Bar for a possible meeting or event.
+An individual visited a yoga studio at Pure Yoga in a gym located in an apartment on Sunday at 14:00.
+A traveler departed from Terminal C at the airport on Wednesday at 14:00 and arrived at the New York Health & Racquet Club, a yoga studio.
+An event attendee traveled from the deli Hale and Hearty to the event space on Monday evening at 18:00.
+An office worker from the advertising agency Publicis Worldwide North America embarked from Central Park Beach to the beach on Saturday at 15:00.
+A visitor to the performing arts venue Fort Jay attended the Zarkana Cirque du Soleil show at the Music Venue on Thursday evening at 21:00.
+A student from JHS 99 embarked from School to Airport Service for a late evening flight on Thursday.
+An American restaurant worker embarked from the Faces & Names lounge to their workplace, HK Hell's Kitchen, for an evening shift starting at 21:00 on Sunday.
+An individual boarded a bus from Gate 29 at a bus station to attend the HBO Bryant Park Summer Film Festival presented by Bank of America, a general entertainment event, on a Monday evening.
+An office worker stopped at Casa Java coffee shop on their way to the New York Hilton Midtown hotel for an evening shift starting at 15:00 on Thursday.
+An office worker traveled from their home to Family Energy for a morning shift starting at 10:00 on Thursday.
+An office worker stopped by a drink shop at Whole Foods for a beer on Friday at 15:00.
+A commuter walked from a miscellaneous shop, Rain or Shine Umbrellas, to the clothing store, Subway, and then to the MTA subway station, MTA Subway - 7th Ave, on Friday at 11:00.
+A person dined at a Thai restaurant and then went to a bagel shop, Ess-A-Bagel, on a Friday evening.
+An individual went to Thunder Jacksons Sports Bar on Friday at 20:00 for a single person.
+A real estate agent from Mns Real Impact Real Estate embarked from Building to Shorty's American Restaurant for an evening meal on Tuesday at 17:00.
+A commuter travelled from a subway station to the office of Fresh Digital Group, likely for an evening shift, starting at 17:00 on Tuesday.
+A person visited a Duane Reade drugstore on Tuesday evening at 14:00 and then proceeded to an arcade.
+A food truck worker traveled from Van Leeuwen Ice Cream to Salon Serenity Salon for an early morning hair salon appointment on Sunday.
+A gym-goer traveled from a gym to the Food Network office on Saturday evening, with a single passenger and a pickup time of 14:00.
+An American restaurant worker embarked from 44 & X Hell's Kitchen to the gym Park Slope Yoga Center for an evening workout on Saturday at 20:00.
+An in-patient medical visit occurred at Bellevue Hospital Center, with the patient being transported to The Ritz-Carlton New York Central Park for overnight accommodation, on a Monday evening starting at 10:00.
+A diner went from East River Diner to iFRESH Market on Sunday at 12:00.
+A Jewish worshiper visited a gym on Friday evening.
+A person went from an ice cream shop to Radio City Music Hall, a concert hall, on a Sunday morning with no passenger count.
+An individual visited the dive bar Emerald Inn on Sunday evening around 9:00 PM.
+A coffee shop enthusiast visited Dean & Deluca on Thursday evening at 13:00 and then proceeded to Starbucks, another coffee shop, with one passenger.
+A construction worker traveled from a bus station to the Design Studio in the D & D Building for a Saturday evening shift starting at 15:00.
+A person visited the Ace Bar, a dive bar located in the Bar category, on Sunday at 3:00 PM and then went to Club H Fitness, a gym and studio, located in the Gym category.
+A coffee shop patron departed from Starbucks to the bar Moca Lounge for an evening gathering on Friday at 9:00.
+A group of five people went to the office of Consolidated Edison, a utility company, from McCarren Park, a playground, on a Wednesday evening at 12:00.
+An office worker had breakfast at Arkadium on Wednesday at 21:00.
+An office worker traveled from High Line Park to their office on Thursday evening at 19:00.
+A traveler arrived at the airport and then visited the Bijou Nails cosmetics store in the evening of Friday at 21:00.
+An American restaurant patron traveled from the Fuel Grill & Juice Bar to the Chase Bank on Friday at 10:00.
+A resident from Home went to Staples, an office supply store, on Monday at 5:00.
+A commuter embarked from the Burger Joint, P.S. Burgers, to the Ferry, NY Waterway Tour Terminal Pier 78, for a Sunday evening commute.
+An Italian food enthusiast went from the Chelsea Ristorante, a Pizzeria, to the Avenue Night Club, a Bar, on a Wednesday evening at 19:00.
+An office worker took the East River Ferry from Brooklyn Bridge Park/DUMBO Terminal to Grayling New York for an early Tuesday evening commute.
+A Thai food enthusiast dined at Silom Thai and then visited a cosmetics store, Sephora, on a Friday evening.
+An art enthusiast visited the New York Irish Center from an art gallery on Saturday evening.
+A shopper purchased clothing from the store UNIQLO and then traveled to a hotel on Tuesday at 20:00.
+A customer visited Martha's Country Bakery on Saturday at 20:00 and then proceeded to Flo Cafe.
+A person picked up from their apartment and visited Burger King, a fast food restaurant, on Friday evening.
+A person went from a burger joint called Bareburger to a pizzeria called Europan Pizza Cafe on Saturday at 13:00.
+An individual went to the pizza place Bravo Pizza for a casual evening meal on Sunday, starting at 22:00.
+An airport worker departed from Virgin America Counter to their home on Sunday at 08:00.
+A bagel enthusiast started their day at The Donut Pub, a donut shop, and then headed to Pier 59 Studios, an office building, for an early morning shift starting at 05:00 on Wednesday.
+A person visited a drugstore on Saturday at 11:00 and then went to a BBQ joint, specifically the Liberty Diner, for lunch.
+A passenger visited a bakery on Thursday evening, then proceeded to a French restaurant, specifically Yatenga French Bistro & Bar, for dinner.
+An office worker stopped by the Dessert Shop Li-Lac Chocolates for a sweet treat before heading to their Doctor's Office appointment at Dr Leff's Medical Center on Wednesday evening at 22:00.
+A coffee shop patron started their day at Starbucks and then visited the Shoe Box, a shoe store, on Friday morning at 08:00.
+A Thai food enthusiast went from Spice Chelsea Corner to Peter Norton Space for an arts and entertainment event on Friday at 23:00.
+A journalist from SELF Magazine visited the Night Club at The Cove for a work-related evening shift starting at 21:00 on Thursday.
+A hardware store worker from Pino And Son Supply headed to a food truck on Thursday at 10:00.
+An office worker went to the TV station Wabc-tv for an evening shift starting at 17:00 on Tuesday, New Year's Daypocalypse 2013.
+A bank worker went from Chase Bank to the Government Building, specifically the Bronx Human Resources Admin, for a Saturday evening shift starting at 20:00.
+An individual went from a fast food restaurant to a jazz and blues venue on Saturday, starting their evening at 11:00.
+An office worker embarked from an office to a theater to watch the play Peter and the Starcatcher on an evening shift starting at 19:00 on Friday.
+A commuter traveled from Richard Tucker Square to Plaza on Sunday at 19:00 and returned to MTA - 34th Street - Herald Square Subway Station at 19:00 via the Subway.
+A customer from a Drink Shop in Grand Central Market visited a Latin American Restaurant in Bank of America on Sunday evening.
+A commuter started their day at Lackawanna Plaza, a shopping plaza, and took a train to Medical Center, where they visited Furukawa Rika DDS, a dentist's office, on Wednesday morning at 10:00.
+An engineer from Engineers Gate visited Eli's Manhattan, a bakery, for an evening snack on Thursday at 15:00.
+A patron of an American restaurant, Jekyll & Hyde Club, visited the office building, The Corinthian, on Thursday at 22:00 for an evening shift.
+A property manager from Woodstock Tower visited a drugstore, Health Source Pharmacy, on Saturday morning for an urgent errand.
+A hotel guest checked out from W New York and headed to the Arrojo Tribeca for an evening of arts and entertainment on Tuesday at 14:00.
+A person visited the Salad Place, specifically Just Salad, for a quick bite of fast food and then stopped by the Candy Store, specifically The London Candy Co., for some sweet treats. This took place on Wednesday evening at 19:00.
+A clothing store employee commuted from Express to Borden Bridge for an early evening shift starting at 2:00 on Wednesday.
+A medical professional traveled from the Medical Center to the Airport on Tuesday evening at 16:00.
+A gym-goer visited the Exhale Spa and then proceeded to the Le Paris Bistrot French Restaurant on Tuesday evening at 21:00.
+A sushi enthusiast embarked from Natsumi to Dunkin' Donuts for an early morning snack on Thursday.
+A resident from the Home Store Williams-Sonoma, likely a furniture enthusiast, visited the Sports Bar Reif's Tavern for a Friday evening gathering with friends.
+A coffee shop patron visited Starbucks in the morning and then headed to La Bella Ferrara bakery on Saturday at 19:00.
+A young adult partygoer ventured from The Boiler Room to Sharan Deli of New York for a late-night snack on a Monday evening.
+An American restaurant patron attended a concert at the Nederlander Theater and then had dinner at Quality Meats Steakhouse on Tuesday evening at 19:00.
+A student from the High School of Graphic Communication Arts headed to Wilfie & Nell, a gastropub, on Tuesday evening at 0:00 with 2 passengers.
+An early riser started their day by embarking from their home to Financier Patisserie, a popular bakery, on Friday morning at 15:00.
+A passenger travelled from a subway station to a bus station on Monday, departing at 8:00 and arriving at 9:00.
+A resident left their home to work at The Helmsley Building on Friday at 07:00.
+A customer went from Panera Bread to O'hanlons Pub on Friday at 21:00.
+A couple dined at Obao Thai Restaurant in an apartment building on Saturday evening around 21:00.
+An individual went from a building to the sushi restaurant Iron Sushi on Monday at 18:00.
+A group of 5 people went to a wine bar on Sunday evening, specifically to a karaoke bar called Second on Second, which is part of the Bar category.
+A worker from the Brevoorg East office building embarked to the French restaurant Tartine for an evening shift starting at 14:00 on Friday.
+A person went to the Sona Nail Salon located in the Plaza area of Herald Square, Monument on a Thursday evening at 19:00.
+An apartment dweller journeyed to the office of AgapeITnyc, an IT Service provider, on Thursday evening at 18:00.
+A group of four people visited the sushi restaurant Mikado and then proceeded to the tea room Lady Mendl's Tea Salon on Wednesday evening at 18:00.
+A coffee lover went from Starbucks to Serafina Fabulous Pizza on a Thursday evening at 18:00.
+A passenger with one person embarked from Terminal 5 of the airport to Hane Sushi, a sushi restaurant, on Saturday at 21:00.
+A theater-goer visited the Imperial Theatre on Friday at 17:00 and then proceeded to the Caribbean Restaurant Negril Village, where they had a meal at the restaurant.
+A hotel guest visited the Drink Shop East End Wine Exchange on Tuesday at 15:00 to purchase beer from the Beer Store.
+A student left their home on Thursday at 10:01 to visit a bookstore for an evening of studying.
+A person traveled from their home to a deli on Friday at 10:02.
+A runner visited the Leelawadee Thai Restaurant and then went to the Carroll Gardens Running Route on Monday at 10:03.
+An ice cream lover visited Jacques Torres Chocola, a dessert shop, on Thursday at 10:04 to satisfy their sweet tooth and later went to Duane Reade, a drugstore, for a purchase.
+A person went from the clothing store R by 45 rpm to the bar Ulysses' on Sunday evening.
+An art gallery enthusiast traveled from the Art Gallery located at Parade Ground on a Saturday at 10:06 AM to another art gallery located at the same venue.
+An office worker started their day by grabbing a bite to eat at the Subway located at Sandwich Place on Saturday. They then visited the Pizzeria, followed by a stop at the Coffee Shop, and ended their day at the Cafe.
+An individual traveling from the bus station to Potbelly for lunch at Sandwich Place on Thursday at 10:48.
+An office worker had a quick lunch break at Vic's Bagel Bar, a bagel shop located in the Plaza, on Thursday at 10:09.
+A shopper visited Ave A 11th Flea Market on Wednesday at 11:00 for a leisurely afternoon outing.
+An individual went from the Abv Wine Bar to the Bar Leo's Grandevous in the evening on Wednesday, with a passenger count of 1.
+A commuter embarked from Pizza Place to Subway for a Friday evening dinner at 21:12.
+A person went from a bar called "Faces & Names" to a Chinese restaurant called "King Wok" on Saturday at 11:13.
+A person went from Burger Joint Joy Burger Bar to Fried Chicken Joint Popeyes Louisiana Kitchen on a Friday evening.
+A museum enthusiast visited the History Museum and then proceeded to the Museum of Jewish Heritage on Wednesday. They then went to a Chinese restaurant, Sunny One Restaurant, for dinner.
+An American diner journeyed from the 99 Miles to Philly restaurant to the Karahi Indian Cuisine eatery, both located in the Indian Restaurant category, on a Friday evening at 22:00.
+A resident of The Stratford Luxury Apartments embarked from the building to Hamilton Park on Saturday at 21:17.
+An office worker traveled from the Subway near 23rd Street PATH Station to the Harry Fox Agency, a Government Department, on Thursday at 11:18 in the morning.
+A bar-goer visited the Pink Elephant Club, a night club located in the Bar category, on Sunday at 21:00.
+A worker from the Mexican Restaurant Dos Caminos in the office building 1385 Broadway Ny Ny embarked to the office on Thursday at 20:00.
+A traveler from Terminal B of the Airport went to Smith's Bar & Restaurant, a sports bar located in the Airport Terminal, on Thursday at 12:21.
+A driver stopped at a gas station, Zap Lube & Car Wash, on Sunday at 12:22 and then proceeded to a deli, Bono's Cafe, for a quick meal before continuing their journey.
+A government official traveled from the United Nations Monument to Papa John's Pizza, a pizzeria, for a late-night pizza craving on a Wednesday evening.
+A fast food enthusiast embarked from Hao Wei to Sticky's Finger Joint for a Saturday dinner starting at 12:04.
+A diner embarked from the office building 420 West 42nd Street to a BBQ joint called Cowgirl for an evening meal on a Saturday.
+A Saturday evening pub-goer visited the Sweet Afton, then headed to the Donut Shop, followed by a stop at Dunkin' before ending the night at the Dining and Drinking venue.
+A business professional from the House Of Sudz II laundry service in the Business and Professional Services category embarked to the LensCrafters Optique optometrist on Thursday at 12:27.
+An office worker from the New York Road Runners Club sports club embarked to a drugstore, Duane Reade, on Saturday at 12:48 in the evening.
+An office worker visited the office supply store East Side Copy & Printing and then headed to the comedy club Stand Up NY for an evening of laughter.
+A person went to the Gershwin Theatre, a music venue, on Friday at 13:00 from a clothing store.
+An office worker embarked from Office to the charity Malaria No More for an urgent evening shift starting at 22:00 on Thursday.
+An event organizer departed from an event space to a Thai restaurant for a dinner meeting at 21:32 on Tuesday.
+A person visited the Central Park - 103rd Street Entrance on Saturday at 13:30 and then headed to the MTA - 50th Street Broadway Subway Station, a Metro Station located in the Park area.
+An individual traveled from the bar, The Hurricane Club, to a bus station, MTA Bus - M9, on a Friday evening at 13:34.
+An American restaurant visitor traveled from Bar to Vero Midtown on Wednesday evening at 21:00.
+An office worker traveled from Washington Square News to a Shell gas station for fuel on Thursday evening.
+A coffee shop patron traveled from the Donut Shop to Squires Diner, a diner located in the Coffee Shop category, on Sunday at 19:37.
+A tea enthusiast visited Alice's Tea Cup Chapter 2 on Sunday at 13:38.
+A tourist visited the famous Bar, Camp, and Cocktail Bar in the Atlantic-Flatbush Triangle neighborhood, which is known for its Landmarks and Outdoors, on a Wednesday evening.
+An individual visited a Vegan Restaurant in West End Superette on Sunday at 14:40, followed by a trip to a Fruit and Vegetable Store.
+An individual purchased goods or services from Metro Drugs, a drugstore located in the Other Great Outdoors category, on Tuesday at 14:41.
+A passenger traveled from the MTA Subway - Broadway station to a train station on Thursday at 14:42.
+A student from Dalton School, a high school, embarked to JFK AirTrain - Federal Circle Station, a rail station, on a Friday afternoon.
+A subway passenger traveled from the MTA Subway - 23rd St to Pearl Art & Craft Supply, an arts and crafts store, on Monday at 14:44.
+An office worker dressed in clothing from J.Crew and had a coffee from Snice before embarking to a vegan restaurant for lunch on a Sunday afternoon.
+A resident departed from their apartment on Friday at 14:46.
+A coffee shop worker started their day at the Donut Shop, heading to the Starbucks for an evening shift on a Friday.
+An event organizer visited the Vietnamese Restaurant 'New Tu Do' on Friday at 14:48 for an event held in the Vietnamese Restaurant 'New Tu Do' which was also an event space.
+A coffee enthusiast went to Starbucks, a coffee shop, on Wednesday at 15:00 and then proceeded to an office supply store, Staples, to purchase paper products.
+A student commuted from the NYU Norman Thomas Center to a nearby Sunoco gas station for a quick fuel-up on a Monday afternoon.
+An individual started their day at the Chelsea Papaya hot dog joint and then proceeded to the Starbucks coffee shop on Tuesday at 15:01.
+An office worker journeyed from the coworking space of Crohn's & Colitis Foundation of America to the fast food restaurant Jersey Fried Chicken for a quick meal at 15:30 on Monday.
+A food enthusiast ordered takeout from the Taiwanese restaurant May Wah Fast Food to the Chinese restaurant Tasty Cafe on Sandwich Place on Tuesday at 15:53.
+An apartment dweller visited the Pizza Place American Flatbread Tribeca Hearth for a dinner on Saturday evening at 15:54.
+An individual visited a night club in the Slate area of the Park district on a Wednesday evening.
+A person went from a hair removal service at Unique Threading Salon to a seafood restaurant at Mary’s Fish Camp for dinner on a Friday evening.
+A traveler departed from the airport on Saturday at 15:57 to visit the Cafe Six Corners Cafe & Del for a short stopover.
+An event organizer from the Au Bon Pain bakery embarked to the Event Space for a Monday evening event.
+An individual visited the Bar Banter pub on Sunday evening at 15:59 and stayed for an hour before departing to their hotel.
+A person visited the drugstore Duane Reade in the Bar area on Saturday at 16:00.
+A train station worker in the Fried Chicken Joint at Sticky's Finger Joint, a Fast Food Restaurant, commuted from their workplace to another Fried Chicken Joint on a Tuesday evening.
+A person visited a drugstore in the morning on Saturday and then went to a convenience store in the evening, with a passenger count of 1.
+An individual visited a bike shop on Tuesday at 16:03.
+An office worker embarked from Building to Royal York Garden for an evening shift starting at 16:04 on Friday.
+An animal lover visited the Medical Center on Thursday and went to the Eastside Animal Hospital before having a meal at the Indian Restaurant, Saravanaa Bhavan, and then indulging in fast food at the Fast Food Restaurant.
+An individual visited a drugstore located at Marina on a Wednesday evening.
+A resident from the home of Hearst Tower embarked to the publisher's building on Friday at 16:47.
+A student traveled from the College Academic Building to Havemeyer Hall - Columbia University, then to the College Science Building, and finally to a coffee shop, The Coffee Bean and Tea Leaf, on a Wednesday evening at 18:00.
+An office worker embarked from Machiavelli to MPG Garage for an evening shift starting at 22:00 on Thursday.
+A coffee shop patron journeyed from Deli to Grocery Store, then to Coffee Shop, and finally to Coffee Shop, all on Wednesday at 17:00.
+An office worker embarked from Casa Java to the coffee shop Starbucks for a morning coffee break on Wednesday.
+A fitness enthusiast went from a Burger Joint to a Gym for an evening workout at the Yoga Studio on a Friday evening.
+An art enthusiast visited the Max Neuhaus Art Gallery on Sunday and then proceeded to the laundry service at 3H Cleaners for a spot of laundry.
+An Asian restaurant worker embarked from Mexican Restaurant to Arcade for an evening shift starting at 17:44 on Tuesday.
+A business traveler from the airport Delta Sky Club, headed to the Japanese Restaurant Fu Gu Sushi for a Sunday evening dinner at 17:50.
+A person visited Mr Joseph's Village Hairstylist, a barbershop located in the building at 817 Broadway 10th Floor, Office Building, on Tuesday at 176 hours.
+A college student traveled from the College Academic Building to Roosevelt House Public Policy Institute at Hunter College, then took the subway to MTA - 14 St Subway Station - Union Square, and finally arrived at the Metro Station on a Wednesday evening at 17:47.
+An office worker from Yosi Samra's Clothing Store Design Studio embarked to Walter Baker Studios' Design Studio on Tuesday evening at 17:58 for a work-related trip.
+A person had lunch at Charley's Philly Steaks, an American Restaurant, in the Cafe section of Sandwich Place on Tuesday at 17:59.
+A diner embarked from the restaurant Three Decker Restaurant to their office at Thirteen WNET Studios on Saturday evening at 18:00.
+An art enthusiast visited the Art Gallery, International Art Movement, and The Parlour, a bar and lounge, on Thursday evening.
+An evening outing began with a visit to the Comedy Club at Simple Studios, followed by a stop at the Noodle House, and finally a visit to the Chinese Restaurant Xe Lua Vietnamese Restaurant.
+A burger enthusiast went from a fast food restaurant, McDonald's, to a burger joint, Shake Shack, on a Thursday evening around 18:30.
+A coffee shop customer traveled from Coffee Shop to Deli on Sunday at 18:04.
+An Asian restaurant worker had a lunch break at the New Hong Kong Restaurant on Friday and then went to the Duane Reade drugstore for a quick shopping trip.
+A person went from the clothing store Cenci Davide to a bar called Perdition on Friday at 18:46.
+A commuter rode the subway from the MTA Subway - Dyckman St station to the Food Truck/Coffee Cart in the Dining and Drinking category on a Tuesday evening at 18:07.
+A physician from the Chelsea Village Medical Center embarked from an American restaurant in the Print district to a medical center in the Physician district for an evening shift starting at 17:00 on Wednesday.
+A coffee shop patron started their day at Dunkin' Donut Shop and then went to the Government Building in New York City Elections Board for work on Wednesday at 18:09.
+A bike shop worker commuted from the Bike Shop on Tuesday at 19:00 to the Pret A Manger fast food restaurant located in the Sandwich Place.
+An individual from a Thai restaurant, Bangkok House, visited a pub, Harrington's Bar & Grill, on a Saturday evening.
+An office worker left General Entertainment venue Kiwibox.com for a Saturday evening shift starting at 19:00.
+A gym enthusiast traveled from New York Sports Clubs to Church Of The Good Shepherd for a Thursday evening workout starting at 19:30.
+A person went from a Fried Chicken Joint to a Diner, then to a Karaoke Bar on Saturday at 19:00.
+An airport worker traveled from a bus station to the airport on Saturday at 19:05.
+A student from Ps 33 Chelsea Prep Elementary School embarked to a professional venue on a Saturday evening.
+A person went to McDonald's for a fast food meal on a Thursday evening.
+A gym-goer from Crunch Fitness - Union Square headed to General Travel on John F Kennedy Boulevard for an evening workout on Thursday.
+A food enthusiast visited the American Restaurant Bullpen on Friday evening, then headed to the Flea Market Smorgasburg Williamsburg for a Street Food Gathering.
+A person received a massage at Spaology and then went to Hair Salon before having dinner at China Grill and finally ended the day with a visit to Chinese Restaurant.
+A park visitor traveled from the Central Park to the MTA Subway - 72nd St Metro Station on Saturday.
+A passenger traveled from the Concert Hall to Terminal 5 on Monday at 20:00. They then visited a clothing store, Betsey Johnson, before returning to their starting point.
+A yoga instructor from the gym YogaWorks Eastside to the office Strategic Legal Solutions for a day shift starting at 20:03 on Thursday.
+A hungry individual dined at Schnipper's Quality Kitchen, a burger joint located in Marina, on a Thursday evening at 20:04.
+An individual traveled from the Park area to the Subway station on 9th Street PATH Station, which is a Rail Station, on a Thursday at 20:05.
+A Thai food enthusiast traveled from Pongsri Thai Restaurant to Five Guys, a Burger Joint, on Saturday evening, around 20:06.
+A coffee shop customer visited the Burro Borracho Mexican Restaurant on Saturday evening at 20:07 and then proceeded to the Ground Support Coffee Shop.
+An office worker walked from Chase Bank to Morandi Restaurant on Wednesday evening.
+A worker from Paper & Staples Office Supply Store in Tribeca Tap House, a sports bar, embarked to Bar in Tribeca Tap House on Thursday at 21:09.
+A person went to a grocery store, Westside Market NYC, from a bar, Jamba Juice, for a drink on a Friday evening.
+A hardware store customer went from Manhattan Hardware to Sarabeth's Central Park South, a breakfast spot, on Saturday at 211 hours.
+A person traveled from a bakery, La Maison du Macaron, to a burger joint, America's Cafe & Grill, on Saturday at 21:12.
+A customer went to Fette Sau, a BBQ Joint, on Saturday at 21:3 for a meal at Boston Market, an American Restaurant, and then proceeded to a Fast Food Restaurant.
+A commuter embarked from the pub Bar to the bus station MTA Bus - G Train Shuttle for a Sunday evening journey starting at 21:44.
+An individual visited the gym New York Sports Clubs on Saturday evening, likely for a workout session.
+An American restaurant customer travelled from Park Avenue Winter to the United States Postal Service on Tuesday evening at 21:00.
+An office worker embarked from Massey Knakal to Brother Jimmy's BBQ for an evening shift starting at 22:00 on Thursday.
+An office worker embarked from the Brooklyn Public Library to a bridal shop on an evening shift starting at 21:18 on Wednesday.
+A coffee shop patron from Starbucks visited a fast-food restaurant, Wendy's, on Saturday evening.
+A coffee shop patron journeyed from the American Restaurant, The Bar Room at The Modern to the Coffee Shop, New World Coffee for a casual evening hangout on Wednesday at 21:21.
+An Asian food enthusiast journeyed from the Korean restaurant Shanhai Mong to the Asian restaurant Shangai Mong on a Monday evening, with no specific time mentioned.
+A group of friends went to the Asian restaurant Wild Ginger Vegetarian Kitchen on Friday evening. They then proceeded to a Chinese restaurant, Bar, and Karaoke Bar.
+An overnight hotel guest checked out of the Hotel at The NoMad Hotel and checked into the Hotel at Millenium Hotel on a Friday evening.
+A person went to the Mexican restaurant Vamos from the gym Crunch Fitness - 34th Street on a Thursday evening, with a passenger count of 8.
+An office worker embarked from The Penny Farthing to the Sports Bar for an evening shift starting at 22:45 on Friday.
+An airport worker embarked from their home to the airport on Thursday for an evening shift starting at 22:00.
+A medical professional traveled from Salon Mateo Beauty Salon to Lenox Hill Radiology, a medical lab, on Friday at 22:47.
+A visitor attended the General Entertainment event, specifically the New York International Auto Show, on Saturday evening. They stopped by the Trade Fair, then went to the Bar for a drink at Juice Generation, followed by a visit to the Juice Bar.
+A coffee shop patron journeyed from The Coffee Bean and Tea Leaf to Old John's Diner for a diner meal on Sunday at 22:29.
+A coffee shop enthusiast went from the Event Space to the Starbucks coffee shop on a Thursday evening around 23:00.
+An individual visited a bank in the evening on a Friday, specifically the Citibank branch, before heading to a bar called Trinity Pub for a cocktail.
+A commuter embarked from 33rd Street Station to Pizza Place for dinner at a pizzeria on Friday evening.
+A person visited a drugstore, Duane Reade, on Friday at 23:33 and then went to a bar, Lilly O'Brien's Bar & Restaurant, which is a dive bar.
+An office worker embarked from Design Studio to Print Store for an evening shift starting at 23:34 on Monday.
+A subway rider journeyed from the MTA Subway - 8th St/NYU to Taan East Thai Restaurant on Tuesday at 23:35.
+An individual from Escuelita, a gay bar, visited Ambassador Wines & Spirits, a liquor store, on a Saturday evening at 23:36.
+An individual went to Stella's Pizza, a pizzeria, on Saturday evening and later visited El Paso Taqueria, a Latin American restaurant, for a meal.
+An office worker from the Penguin Random House office building traveled to a neighborhood location on Saturday evening at 23:38.
+A movie enthusiast attended the Tribeca Film Festival at a movie theater and later visited Empire State Orthopaedics, an orthopedic surgeon, at a medical center on Thursday.
+A moviegoer travelled from the AMC 19th St East 6 movie theater to the commercial real estate developer One Grand Central Place on a Monday evening at 24:00.
+An apartment dweller visited the Pearl Art & Craft Supply store on Sunday at 24:01 to purchase arts and crafts supplies.
+A hotel guest checked out from the luxurious Waldorf Astoria New York and headed to Louis Vuitton, a high-end clothing store, for some shopping on Saturday evening.
+A person went to Cleo Nail & Spa, a nail salon, on Monday evening for a massage at 24:03. They then visited Marcelo Garcia Jiu Jitsu, a martial arts dojo, and Gym before returning home.
+An individual visited the Bar L'ybane, a French restaurant located near Artisans' Gate Park, on Saturday at 24:04.
+An apartment dweller visited the Mexican restaurant El Aguila for dinner on Sunday at 24:45.
+An office worker departed from the building "Bar" on Sunday evening, specifically at 24:00, and headed to the office building "The Grace Building".
+An office worker, possibly a salesperson, traveled from Tommy Hilfiger, a clothing store, to an office building on Thursday at 24:47.
+A gym enthusiast traveled from Crunch Fitness - 54th Street to Chase Bank on Tuesday, visiting the bank during their workout.
+A person visited the dive bar KGB Bar located in the apartment complex Bar on Thursday evening at 24:49.
+An American diner from the Todd English Food Hall at the Drink Shop in the Burger Joint embarked to McDonald's for a quick fast food meal on a Monday evening.
+A gym-goer visited the New York Sports Clubs on Sunday evening, followed by a night out at the Amnesia NYC bar.
+An airport employee traveled from Terminal C to HRA 180 Water Street in Government Building for a community and government-related task on Thursday at 25:52.
+A hotel guest enjoyed a sweet treat at the Ice Cream Shop Red Mango, located within the Soho Grand Hotel, on a Wednesday evening.
+A person went to De Berardinis Salon, a hair salon located in Christian Louboutin Madison, a clothing store, on Saturday at 2:54.
+A cosmetics shopper visited the Aveda store at Bergdorf Goodman department store on Friday at 255 hours.
+A resident of the neighborhood embarked to their bank on Monday evening.
+An individual visited the coffee shop Starbucks in the landmark area East Green on Friday at 25:57 for a coffee break.
+A person visited a Gastropub, then a Bar, and finally an Arts and Crafts Store in Brooklyn on a Friday evening.
+An office worker embarked from the Office building to the Financial Planner of JP Morgan for an evening shift starting at 21:00 on Friday. After completing their work, they visited a Clothing Store, Little Marc Jacobs, before returning to their starting location.
+A resident of The Buchanan in a Residential Building embarked from Danny's Cycles - Upper West Side, a Bike Shop, to a Bicycle Store for an evening ride on Thursday at 26:00.
+A hair stylist went from the Gourmet Store Smashiess on Friday at 26:01 to L'Etoile Salon for an evening shift.
+An office worker from the Sandwich Place embarked to the Petco store for a Pet Supplies Store visit on Thursday at 26:00.
+A person went to the restaurant Panini Tozt in the deli section of Crown's fast food restaurant on Saturday at 26:03.
+A person went from a post office to a sports bar on Saturday, and then to a FedEx office and a post office.
+A moviegoer visited AMC 19th St East 6 in the evening on Thursday, followed by a visit to the Concrete Restaurant & Bar for a drink at the bar.
+A person visited the Bar Crescent Lounge on Friday evening.
+An office worker visited a night club in Bar, The Eagle on Friday at 26:47 before returning to their law office at Stroock & Stroock & Lavan.
+An individual from a medical center embarked from The Rum House, a cocktail bar, to the Meshoyrer Daniel DO - Carepoint Health-Christ Hospital, a health and medicine facility, on a Thursday at 22:08.
+An airport employee departed from Terminal 5 at the airport to their bank on Saturday at 26:59.
+A person went from the event space at 17:00 on Sunday to the Korean restaurant Bon Chon.
+An office worker went to the gym on Wednesday evening at 21:00.
+An office worker embarked from the Coworking Space of the Crohn's & Colitis Foundation of America to a Bus Station on Tuesday at 27 hours.
+A Mediterranean Restaurant worker embarked from Park to a Bite at an American Restaurant on Saturday at 27:30.
+A yoga enthusiast visited the Yoga to the People studio on Saturday evening, then headed to the Valery Joseph Salon for a hair salon visit.
+A taxi passenger was picked up from an event space on Monday at 27:50 and dropped off at an event space.
+A coffee shop enthusiast went from Cafe Sweetleaf to Starbucks Coffee Shop for a Tuesday evening treat at 21:00.
+A resident visited a cupcake shop on Friday evening, likely for a treat or a social gathering.
+A commuter in a cafe embarked from Popover Cafe to the subway station MTA Subway - Chambers St for their Monday evening commute.
+A residential building dweller departed from The Wellesley to Rivergate Playground for recreational purposes on a Monday evening at 27:59.
+An office worker traveled from the Cosmetics Store to the Coffee Shop, specifically Starbucks, on Saturday at 08:00.
+An individual dined at the Mexican Restaurant Yummy Taco on Sunday at 28:01, and then proceeded to the New York Public Library - Stephen A. Schwarzman Building.
+A commuter visited a bagel shop, Bagel Boss, and then went to a bank on Wednesday at 28:02.
+A gym-goer visited the New York Sports Clubs on Friday at 21:00 and returned to the Hotel Gansevoort Meatpacking NYC.
+A person moved from the deli Zeytinz to the deli Moving Target on Thursday at 14:04.
+An airport worker departed from their apartment on Monday at 22:45 for an evening shift.
+An individual who visited a coffee shop in the morning, specifically Starbucks, embarked to a movie theater in the evening, namely AMC Lincoln Square 13, on a Saturday.
+An office worker departed from the College Academic Building to Chase Bank for an evening shift starting at 22:00 on Friday.
+A person checked out of the Hotel Kimpton Hotels and visited the Tommy Hilfiger clothing store on Tuesday at 22:48.
+An office worker traveled from Plaza to McCarthy Square via public transportation on Thursday, starting at 17:00 and ending at 289:00.
+A pizza enthusiast visited the Thai Restaurant Pad Thai Noodle Lounge in the evening on Friday for a taste of their famous Pad Thai dish.
+An individual embarked from a department store to a clothing store on a Monday evening.
+A customer purchased sporting goods from Modell's Sporting Goods on Friday at 20:20.
+A person went to the theater on Sunday at 29:03 and visited the Lyceum Theatre, which is a music venue.
+An office worker embarked from SundanceTV to the American Barber Institute for an educational event on Tuesday at 29:00.
+A bagel shop patron visited Rock N Roll Bagel on Sunday at 29:5 and proceeded to L'OR Porch at Bryant Park, a lounge, for a leisurely evening.
+A commuter rode the subway from the neighborhood of MTA Subway - 23rd St to the Subway on Saturday at 29:46.
+An office worker embarked from the residential building One Columbus Place - Towers I & II to John Jay College - North Hall, a college academic building, on Saturday at 29:47.
+A concertgoer visited the Noodle House Mee Noodle Shop in the Cantonese Restaurant on Friday at 2:58.
+An evening diner embarked from the Mexican Restaurant Pepe Patron to the diner Silver Star Restaurant for an urgent evening shift starting at 22:00 on Wednesday.
+A pizza delivery person traveled from a building to Bravo Pizza, a pizzeria, on Tuesday at 300 hours.
+An art enthusiast visited the Art Gallery at Bohemian National Hall on Tuesday at 30:01 and proceeded to the Ice Cream Shop Pinkberry for a sweet treat.
+A food truck worker travelled from The Village Voice's Choice Streets Food Truck Event to Train Station on Tuesday at 30:02.
+An office worker left an office building on Sunday at 30:03 to start an urgent evening shift.
+An office worker visited a clothing store on Tuesday evening, specifically the Ann Taylor store, for an unknown purpose.
+An office worker stopped by the ice cream shop Amorino for a sweet treat on Saturday before heading to Paper, Staples, Office Supply Store for their work.
+An individual went from a clothing store (Urban Outfitters) to a drugstore (Duane Reade) on Tuesday evening at 30:06.
+A person visited the Middle Eastern Restaurant Ravagh Persian Grill on Tuesday at 30:07 and then went to the African Restaurant Cleo Nail & Spa for a massage at 30:07.
+A patient visited the New York Presbyterian Hospital for a medical consultation with a neurologist and then went to the Thai Restaurant Pongsri for dinner on a Thursday evening.
+A customer purchased a burger from McDonald's at Magnolia Bakery on a Monday evening at 30:09.
+A diner went from The Wren to Cilantro for a Mexican Restaurant meal on Wednesday at 23:10.
+An individual visited the Stiles Farmers Market on Sunday at 31:10 and then proceeded to Maison Kayser, a bakery located in the same area.
+A yoga enthusiast went from the gym Base to the karaoke bar Inhabit Karaoke Lounge on Friday at 3:12 pm.
+A visitor attended an event at the Midtown Loft and Terrace on Saturday evening, starting at 31:03. They then went to the Cafe Metro and later to the Cafe Sandwich Place.
+A breakfast enthusiast visited the Cosmic Diner, a diner located in a building, on Saturday at 3:14 for a quick breakfast spot experience.
+A university student traveled from the University Club to the social club Marvel Entertainment for an evening event on Tuesday at 21:15.
+An individual ordered takeout from Ray's Pizza Restaurant, a pizzeria, on Monday at 21:16.
+A traveler visited the Music Venue, Pachita At Pacha, on Friday at 317 hours for an evening of entertainment at the Night Club, Bobby Van's Grill, and the New American Restaurant.
+A person went to Bobby's Night Club on Saturday evening at 18:18 and stayed there for a cafe experience at Cafe On One and Café.
+A bank employee traveled from the Bank Capital One 2nd & 10th to the Middle Eastern Restaurant 12 Chairs for a dinner break on Tuesday evening.
+A gym-goer from Boom Fitness traveled to the Music Venue 59E59 Theaters on Saturday at 20:20.
+An American restaurant patron traveled from Nice Matin to Bar None, a cocktail bar on a Saturday evening.
+A person from an American restaurant in Telepan, New American Restaurant, embarked to the Hayden Planetarium on Saturday at 32:00.
+An American Restaurant patron visited the Bank of America located in the Steakhouse BLT Steak on Monday at 16:23.
+A college student journeyed from the College Academic Building to the Gym to work out at Crunch Fitness - 54th Street on Tuesday afternoon.
+An individual visited a coffee shop, specifically Juan Valdez Cafe, on Friday at 22:00 for general travel purposes.
+An office worker went from the Rokkan office to a cocktail bar in Soho Room, Bar on Tuesday evening at 20:00.
+An office worker embarked from the Museum of the Intrepid Sea, Air & Space Museum to the Potbelly Sandwich Shop for a lunch break on Wednesday.
+An office worker from The Plotkin Foundation, a non-profit organization, embarked to a tanning salon on Sunday evening.
+An American restaurant customer visited Juliano's Espresso Bar, a coffee shop, for a brief stop before heading to Hale & Hearty Soups, a soup place, on a Tuesday evening.
+A worker from the Advertising Agency Fleishman-Hillard embarked from the Mediterranean Restaurant Hummus Place to the Middle Eastern Restaurant on Tuesday at 330 hours for an evening shift.
+A customer from Bank of America went to Skytown Cafe on Monday at 33:00 for a late-night banking session.
+A person went from a Japanese restaurant called Takashi to an iFRESH Market, a grocery store, on a Saturday evening.
+A person visited a drugstore, specifically CVS Pharmacy, on Saturday at 33:33, and then went to a French restaurant called Vive La Crepe.
+An office worker went from The Half King, a bar, to Avon Development Enterprises, a coworking space, for an evening shift starting at 22:00 on Thursday.
+An Italian restaurant worker embarked from the clothing store NFL Shop at Draft Pop-Up to the Italian restaurant Al Forno Pizzeria for an evening shift starting at 22:00 on Friday.
+A student or faculty member from Yeshiva University's College Academic Building traveled to Famous Deli on Tuesday evening at 33:36 for a quick stop for food.
+A food truck driver went from a Latin American restaurant to a shoe repair service in a clothing store on Wednesday evening.
+A person traveled from the MTA Subway - 5th Ave/53rd St to Duane Reade, a drugstore located near the subway station, on Thursday evening at 22:38.
+An Italian restaurant worker traveled from Maialino to Dong Chun Hong for an evening shift starting at 17:39 on Wednesday.
+An ice cream lover went to Applegate Applegate Dessert Shop for a sweet treat on Sunday at 3:40.
+A person had an Italian dinner at Olive Garden on Friday evening and then proceeded to the Bank of America for financial services.
+A bakery worker visited Le Pain Quotidien - Lincoln Plaza on Saturday at 3:42 for an urgent evening shift related to the Puerto Rican Day Parade.
+An apartment dweller departed from The Hawthorne, a residential building, to 175 Kent Apartments, a real estate agency, on Saturday at 3:43 PM.
+A law professional from Entwistle & Cappucci Law Office departed from their home residence on Saturday evening.
+A resident of Birdbath Neighborhood Green Bakery embarked to Noodle House, a Thai restaurant, on a Sunday evening at 21:00.
+A traveler stayed at the Hotel DoubleTree by Hilton Hotel New York City - Chelsea on Thursday and visited the Italian Restaurant Centro Vinoteca, a Bar, and the Bar Cento Vinoteca.
+An airport employee traveled from Tenzan 89, a sushi restaurant, to Terminal 4 of the airport on Saturday at 3:47.
+A student journeyed from PS 225 Ella Baker, a school, to Marcus Garvey Park, a playground, on Tuesday, 348 hours.
+A person visited the bar The Half King on Wednesday, spending time there from 16:00 to 16:49.
+An ice cream lover journeyed from the Tasti D-Lite Ice Cream Parlor to Riccardo Maggiore Salon for a hair salon visit on a Tuesday evening at 21:00.
+An airport worker departed from LaGuardia Airport (LGA) to their home on Saturday at 3:51.
+An MTA NYCTA Bus passenger journeyed from the MTA NYCTA Bus - M15 / +SBS At 100th Street 1st & 2nd Aves Bus Station to the New York Sports Clubs Gym and Studio on Tuesday, 16:52.
+A patient was taken to New York Presbyterian Hospital Weill Cornell Medical Center, a hospital located in the medical center category, on a bar day (Saturday) at 03:53.
+A person went to Ennis Playground on Sunday, starting at 3:54 in the morning, from an American Restaurant, possibly to enjoy a meal at a Sushi Restaurant.
+A coffee shop patron went from De Luxe Cafe to Lafayette Espresso Bar + Marketplace for a casual evening out on Thursday at 22:55.
+An office worker embarked from the office building in Bar to the Kinsale Tavern for a meeting or a meal on Friday at 22:56.
+A person from an apartment visited a funeral home, Ortiz R G Funeral Homes, on Monday at 3:57.
+An office worker had a quick lunch at the Vegan Restaurant Zen Palate and then went to the Drink Shop Citarella Gourmet Market - Upper East Side for some groceries before embarking to the Fish Market.
+An office worker embarked from Weill Cornell Medicine to the company SundanceTV for an evening shift starting at 22:00 on Thursday.
+A person went to a wine bar in Bar, Vero Midtown on a Saturday evening, then visited the Tette Club, a night club.
+A person went to a bakery in Koryodang, Park, Robert F. Wagner, Jr Park, and then visited a park on Friday at 18:00.
+A government official visited the Gracie Mansion, a government building, for a special event on Wednesday at 3:36 PM.
+A steakhouse enthusiast visited The Post House on Friday evening for a retail purchase from the Miscellaneous Shop Story.
+A participant in the O'Reilly Strata Conference left the Convention Center on Tuesday at 3:44 PM and arrived at Unitel/AMV Studios, a venue for Arts and Entertainment, in the same Convention Center area.
+A person went to a drugstore, Duane Reade, on Sunday at 365 hours for a purchase related to cosmetics, and then proceeded to a nail salon, Stylish Ten.
+A concertgoer visited the David Geffen Hall on Friday evening and stopped by the Gristedes Supermarkets grocery store on the way back.
+A park-goer visited the Asian restaurant Grill 21 in The Rocks on Thursday evening at 23:00.
+A person visited the dive bar, 7B Horseshoe Bar aka Vazacs, in the evening on Thursday, and then went to the Bank of America building for a financial service.
+A coffee shop enthusiast visited Joe Coffee Company in a coffee shop on Saturday at 3:36:00.
+A person went from Burger Joint to Rare Bar & Grill, a Bar, on Saturday at 3:70 for a coffee break.
+A college student traveled from the College Academic Building to the North Academic Center on Thursday at 37:00 for an evening study session.
+An American restaurant worker departed from the Fraternity House to the Vegan Restaurant on Saturday at 37:00.
+An airport-bound passenger traveled from the Subway to the MTA Subway - 47th-50th St/Rockefeller Center Metro Station on Thursday.
+A coffee enthusiast visited the Mexican restaurant Taqueria Lower East Side for a quick fast food meal and then stopped by the coffee shop Starbucks before heading back home on Thursday at 21:00.
+An individual visited a Mexican restaurant, El Aguila, on a Sunday evening and then proceeded to a clothing store, 7 For All Mankind.
+A train station commuter departed from 33rd Street Station to the office building Columbia Commons Condominiums for an evening shift starting at 22:00 on Wednesday.
+An individual checked out of Hotel The Standard on the High Line and proceeded to El Rio Grande, a Mexican restaurant, on Saturday afternoon.
+An office worker visited the Diner IHOP for a quick lunch on a busy Wednesday afternoon, then headed back to their office.
+A theater enthusiast visited the New York City Center on a Friday evening for an Office event at the Union For Reform Judaism Synagogue.
+A shopper visited the Drink Shop, Food Emporium, and Grocery Store on Saturday, and then went to the Clothing Store Banana Republic.
+A commuter rode the subway from the 59th Street - Lexington Avenue station to the Vintage Grape & Grog liquor store on Sunday at 21:00.
+A person went to a Japanese Restaurant, Ronin Bar & Grill, and a Drink Shop in the evening on Friday. They then visited a BBQ Joint, Kalustyan's, and a Gourmet Store before ending their journey.
+A person went from the city to a night club on a Sunday evening, with a passenger count of 3.
+A customer dined at the steakhouse Keens Steakhouse, located in the American restaurant category, on a Thursday evening at 38:04.
+A resident in the neighborhood embarked from their home to the Bank of Citibank on Saturday evening.
+A BMW of Manhattan car dealer visited an event space on Friday at 386 hours.
+A gym enthusiast visited the Crunch gym and then went to a clothing store, Dash, on Friday evening.
+An evening concertgoer traveled from the Concert Hall to the NBA Store for a sporting goods purchase at a clothing store on a Friday evening.
+A shopper visited a clothing store and then a farmers market, before stopping by a shoe repair service, all in the Union Square Greenmarket area on Wednesday.
+An employee from Wells Fargo Bank visited the History Museum in Harlem Heritage Tours, a tour provider, on a Wednesday evening.
+A yoga enthusiast visited the BOD膾 NYC Upper West Side yoga studio on Sunday at 3:59 PM.
+A seafood enthusiast traveled from Lure Fishbar to Saravanaa Bhavan, switching from a sushi restaurant to an Indian restaurant, on a Monday evening at 39:20.
+A person went from a building to a Mexican restaurant on Thursday at 15:00.
+A person went to the Scenic Lookout and then visited the Empire State Building on Sunday at 19:34. They then went to The North Face, a clothing store.
+A movie enthusiast traveled from the AMC Lincoln Square 13 movie theater to a ski area on Friday at 395 hours.
+An office worker traveled from A/X Armani Exchange to Other Great Outdoors for a Thanksgiving-themed event on Wednesday evening, with a passenger count of 396.
+An office worker commuted from MTA M31 York Ave. East 74th St Bus Station to their workplace on Thursday at 19:57.
+A coffee shop patron departed from Gregorys Coffee, a coffee shop located on Wall Street, to a road in the Travel and Transportation category on a Tuesday evening at 21:00.
+An art enthusiast visited the Jain Marunouchi Gallery in Washington Square Park on Friday at 22:00.
+A worker from the Paramount Global office went to the 42nd Street Wine Loft liquor store for an evening pick-up on Tuesday at 18:00.
+A student from Stern College For Women embarked to University for an evening class on Sunday at 15:00.
+A cyclist from Bike Shop embarked to Danny's Cycles, a bicycle store, via Subway, an MTA subway station, on Friday at 4:02 PM.
+An individual embarked from a coffee shop on Wednesday at 4:03 PM to visit a burger joint, a dram shop, and a sports bar.
+A person visited the Ritz Bar and Lounge on Tuesday, leaving from Bar and arriving at Rite Aid, a drugstore.
+An office worker departed from Hotel to the office of Citicorp for an evening shift starting at 22:00 on Thursday.
+A commuter traveled from 33rd Street Station, a Metro Station, to Ohm Spa & Lounge, a Spa, on a Saturday evening at 23:06.
+A coffee shop enthusiast walked from the neighborhood Peace & Love to the bistro Peace & Love on Monday at 4:07 in the afternoon.
+A bar-goer traveled from Bar to International Bar for a Friday night out, visiting Spanish Restaurant and Socarrat Paella Bar - Midtown East along the way.
+An individual went to a gym in the evening, specifically the Equinox High Line location, on a Thursday.
+An individual who works at the Travel Lounge in Amtrak Waiting Area, in the category of Travel and Transportation, traveled to Battery Place Market in Gourmet Store, in the category of Drink Shop, on Monday at 410.
+A patient went to the Bedford Stuyvesant Family Health Center for a medical check-up at the Physician's office located in the Medical Center on Tuesday at 4:11 PM.
+A concertgoer departed from the Concert Hall on Thursday at 4:12 PM.
+A hotel guest departed from Bus Station MTA Bus - 3 Av & E 14 St to Gansevoort Meatpacking NYC, a hotel, on Sunday at 22:22.
+A theater-goer traveled from The Duane Reade drugstore to a theater on Tuesday evening, departing at 22:00.
+An individual went from the General Travel area to the CNBC Shuttle for a morning trip on Monday, starting at 4:15.
+A pizza lover went from Pizza Place to Sal & Carmine's Pizza on Friday at 16:16, then visited a spa at Bluemercury and a cosmetics shop before ending the day at 16:40.
+A theater enthusiast attended a performance at the Richard Rodgers Theatre on Sunday evening, and then visited the Rice To Riches ice cream parlor for dessert.
+An individual visited the Italian Restaurant 'The BackYard at 160' in the City on Thursday evening at 18:18.
+A person went to Ryan Maguire's Ale House, a pub, on Sunday at 4:19 pm, likely for a night out at the Bar Finale Night Club.
+An American restaurant enthusiast dined at Del Posto, an Italian restaurant, and then visited Telepan, another Italian restaurant, on a Wednesday evening.
+An airport passenger arrived at The 'dam Airport and proceeded to the Virgin America Counter, likely for a flight, on a Friday evening around 4:21 pm.
+An office worker journeyed from Nelson A. Rockefeller Park to Park for a regular afternoon shift starting at 21:00 on Wednesday.
+A person visited the clothing store Aritzia in the mall on Friday, then went to the gym Trapeze School of New York and later to the gym and studio Gym.
+An office worker embarked from Robins Kaplan Miller & Ciresi to a shoe repair shop Luz Shoe Repair for an evening shift starting at 22:00 on Wednesday.
+A person visited a gas station, specifically BP, on Sunday at 4:25 pm.
+An academic staff member visited the College Academic Building, College Arts Building, and Lowenstein Building for an evening of bar-hopping, sipping wine at the Abv Wine Bar.
+A sports enthusiast travelled from Mikie Squared Sports Bar to Tarallucci e Vino Restaurant Cafe on Sunday evening.
+An individual went from a gym to a bus station on Wednesday evening, possibly to catch the M34-SBS bus.
+A commuter picked up a Grab & Go meal from the deli at Subway and headed to the convenience store at MTA - 23rd Street Station on Saturday at 20:29.
+A vegan and vegetarian restaurant customer visited the Chinese restaurant Delicious on Wednesday at 16:30 and then went to the Organic Avenue, a vegan restaurant, for their evening meal.
+A person visited a deli in the Cafe CNN on Tuesday at 21:31 and then went to a bar called Shannon Pot.
+An office worker embarked from Plaza to their workplace on Thursday at 4:32 PM.
+An office worker commuted from Cellfish Media, a business and professional services provider, to ABC Carpet, a carpet and flooring contractor, on Tuesday at 16:33.
+A vegan customer visited Tiengarden, an American restaurant, on Thursday evening, departing from BBQ Joint, a BBQ joint, and arriving at BBQ Joint, another BBQ joint, via Vegan Restaurant, a vegan restaurant.
+An academic worker traveled from the College Academic Building to a Middle Eastern Restaurant on Saturday, at 4:35 PM.
+An individual from a bookstore in the Barnes & Noble chain traveled to a Mexican restaurant for a casual evening meal, accompanied by a passenger count of 1, on a Friday at 4:36.
+A person exited the Subway at the MTA-34th St-Penn Stn-1-2 & 3 Lines Metro Station and walked to a Clothing Store on Friday at 4:37 PM.
+An artichoke pizza enthusiast journeyed from Pizza Place to Artichoke Basille's Pizza on Friday evening, followed by a visit to a clothing store to purchase Dolce & Gabbana items.
+An art enthusiast visited the Adam Baumgold Gallery on Sunday evening.
+An office worker embarked from the Peruvian Restaurant to the Caribbean Restaurant for an evening shift starting at 23:00 on Tuesday.
+An office worker embarked from the Student Center to the American Language Communication Center for a Friday evening shift starting at 4:41 PM.
+An American diner patronized the David Burke Townhouse, a New American Restaurant, on a Friday evening at 44:42.
+A physician from the University embarked to Heustein Lu Sy, MD for an evening appointment on Monday at 21:43.
+A vegan food enthusiast visited the Juice Press restaurant in the Art Museum area on Thursday evening.
+A young professional had a casual Sunday evening dinner at The Wren, a gastropub located in the Dumbo Kitchen, an Italian restaurant.
+An individual dined at a Mexican Restaurant on Thursday at 4:46 PM, specifically at McDonald's, a Burger Joint.
+An office worker embarked from The Pierre to the Sandwich Spot for a lunch break on Saturday at 4:47.
+A person went to the Bar Serafina Juice Bar for a drink and then visited the Clothing Store Lacoste on Friday.
+A hotel guest departed from Kimpton Hotels, a hostel located in the Office venue category, to Icr, an office building, on Tuesday at 20:00.
+An Italian food enthusiast dined at Le Zie, an Italian restaurant, on Friday at 21:45 and then proceeded to The Magician at The NoMad, an American restaurant, for entertainment services.
+A hardware store worker traveled from The Home Depot to a sports bar on Sunday at 4:51 in the afternoon.
+An office worker started their day at Chipotle Mexican Grill, a fast food restaurant, and ended it at Starbucks, a coffee shop, both located in the coffee shop category. The journey took place on Friday, with the pickup and dropoff hours being 18:00 and 22:00 respectively.
+An individual embarked from Pizza Place to Two Boots To Go West for a Friday evening, likely for a leisurely activity, utilizing public transportation, specifically the MTA Regional Bus Operations - Manhattanville Depot.
+A diner went to the Japanese Restaurant, EN Japanese Brasserie, in the Variety Market on Friday for dinner.
+An office worker embarked from the French Restaurant Pastis to the French Restaurant Le Pain Quotidien for an urgent evening shift starting at 22:00 on Wednesday.
+An academic event took place at the McGraw-Hill Auditorium of the College Academic Building on Tuesday at 4:56 PM.
+An individual had a lunch break at the Subway restaurant located on Sandwich Place on Thursday at 14:57.
+A government employee departed from the Motor Vehicle Department located in a Government Building to the Drink Shop situated in Jubilee Marketplace for a grocery shopping trip on Wednesday at 22:45.
+A resident of the Meatpacking District in the neighborhood of Neighborhood went to the gift shop "Apple Engraving" in the Community and Government area for retail purposes on Thursday at 4:59 PM.
+A nursery school teacher traveled from The Children's Learning Center to HSBC Bank on Tuesday at 16:00.
+A customer visited the drugstore Duane Reade and then went to the barbershop Levels Barbershop on Friday evening.
+A hiker ventured from the Outdoor location "Thanksgivingpocalypse 2012" to the Medical Center on Saturday at 4:46 pm.
+A person visited the Decore Art Gallery on Thursday at 4:30 pm and then went to the Old Navy clothing store.
+A hotel guest checked out from St Giles - The Court and traveled to Rector Park on Monday at 4:46 PM.
+An office worker commuted from the NJ Transit Rail Terminal to Wnet, a media agency, on Friday at 4:45 PM.
+A commuter had a quick lunch at Sandwich Place and then went to Subway for a bite before heading to the drugstore CVS Pharmacy for some shopping.
+A pizza enthusiast went from a bar to a pizzeria on a Thursday evening.
+An office worker embarked from a clothing store, Zachary's Smile, to a bakery, Clinton St. Baking Company, for a breakfast spot on Friday at 4:46.
+An American restaurant patron embarked from the Golden Unicorn Dim Sum Restaurant to the Northeast Kingdom American Restaurant for a Sunday evening meal at 4:49.
+A person went to Bar from Park, Artisans' Gate, on a Wednesday evening at 22:00.
+A person went to the Cutting Board restaurant for dinner on Thursday, possibly for a Chinese meal.
+A burger enthusiast journeyed from a Burger Joint to an Italian Restaurant on Saturday at 47:00 hours, with a stop at the Panorama Cafe along the way.
+A person went from a clothing store (Miu Miu New York Soho) to a grocery store (Ideal Food Basket) on Saturday at 23:47, likely for a late-night shopping trip.
+A patient visited the medical center for a dentist appointment at Premier Dental Associates of Lower Manhattan on Tuesday at 21:00.
+An office worker traveled from the Advertising Agency to the American Restaurant on Monday evening. They started their journey at 14:00 and stopped at the Cocktail Bar before reaching their destination.
+A person picked up a deli item from Plaza Deli and headed to their building on Thursday at 16:00.
+An office worker travelled from an apartment to FedEx Office Print & Ship Center, a post office, for a financial or legal service on Thursday at 4:47.
+A bike enthusiast rode from Danny's Cycles - Upper West Side, a bike shop, to a cafe on Sunday at 4:78.
+A pet store worker traveled from Pet Store to Noodle House on Sunday at 17:49.
+An office worker departed from the Bus Station on Tuesday at 04:48 and arrived at the Solow Building, the office of a commercial real estate developer.
+An office worker started their day at the office located in the BMI building on Wednesday at 21:00 and then traveled to the Thai restaurant for lunch.
+A patron went to The Penny Farthing, a sports bar, on Sunday at 48:20 to enjoy Tapas Restaurant and Wine Bar.
+An office worker dined at Tortilla Flats, a Mexican restaurant, on Thursday evening at 21:00.
+An attendee of the TechCrunch Disrupt NYC 2012 convention embarked from the Convention Center to the Other Great Outdoors location on a Sunday evening.
+An ATM user travelled from the bank Chase Bank to the bank Capital One Bank, then to the bank Bank, and finally to the bank Bank, all on Wednesday at 485 hours.
+An American Restaurant patron visited Tapas Restaurant, Sojourn for a dinner at 486 hours on Wednesday.
+A business traveler checked into the Hotel Waldorf Astoria New York on Saturday evening around 16:00.
+An office worker embarked from the food truck on Tuesday at 22:48 to the Prudential Insurance Agency for an evening shift.
+An individual went to the gym Xtreme Fitness on Saturday at 18:00 and then visited the deli Best Health Gourmet Deli.
